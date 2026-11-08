@@ -2,7 +2,7 @@
 
 **Name:** P Nandha Kishor · **Registration number:** 252U1R7082 · **Section:** CSE-FSD-2B
 
-**Live link:** https://YOUR-DEPLOYED-URL (replace after deploying, or write why it could not be deployed and rely on the Postman screenshots below)
+**Live link:** https://lab-03-five.vercel.app/
 
 A Books REST API built with Node.js, Express and SQLite. It supports search, sorting, pagination,
 a price-range filter, request validation, correct HTTP status codes and a consistent JSON format.
